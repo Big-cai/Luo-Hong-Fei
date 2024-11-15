@@ -1,7 +1,7 @@
 ## 我是xxx 🐟
 
 - 🐧 前端开发攻城狮，全网 0w 粉技术博主
-- 🏡 作品：<a href="https://www.ce-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
+- 🏡 作品：<a href="https://www.ce-nav.cn" target="_blank"></a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
 - 🌱 热爱分享 <a href="" target="_blank">公众号『 有个毛 公众号』</a>
 - 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">阿坝阿巴阿巴</a> | 
 - 💬 微信：🤣
